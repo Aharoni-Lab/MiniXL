@@ -6,7 +6,7 @@ This is the repository for the second version of MiniLFOV, called MiniLFOV-Light
 
 Large field-of-view miniature microscope for rats and larger animals. 
 <p align="center">
-  <img align="center" width="433" height="343" src="https://github.com/Aharoni-Lab/Miniscope-LFOV/blob/main/img/Fig1-v14_A1.png">
+  <img align="center" width="433" height="343" src="https://github.com/Aharoni-Lab/MiniLFOV-Light/blob/main/img/Fig1-v14_A1.png">
 </p>
 <p dir="auto"><strong>All information, guides, and tutorials can be found on the <a href="https://github.com/Aharoni-Lab/Miniscope-LFOV/wiki">Miniscope-LFOV Wiki Page</a>.</strong></p>
 <p dir="auto"><strong>Make sure to click Watch and Star in the upper right corner of this page to get updates on new features and releases.</strong></p>
@@ -28,7 +28,7 @@ Large field-of-view miniature microscope for rats and larger animals.
 <li>New DAQ software</li>
 </ul>
 <p align="center">
-  <img align="center" width="473" height="337" src="https://github.com/Aharoni-Lab/Miniscope-LFOV/blob/main/img/Fig1-v14_A3.png">
+  <img align="center" width="473" height="337" src="https://github.com/Aharoni-Lab/Fig1-v14_A1/blob/main/img/Fig1-v14_A3.png">
 </p>
 
 ## How to use with the Miniscope DAQ Software
