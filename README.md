@@ -13,13 +13,13 @@ Large field-of-view miniature microscope for freely moving mice and bigger anima
 <p align="center" dir="auto">
 <p dir="auto">The Miniscope_LFOV is designed to extend the capabilities of the UCLA Miniscope for head-fixed imaging in mice, and head-free imaging to larger rodents and non-human primates. This system is capable of multiple imaging configurations, including deep brain imaging using implanted optical probes and cortical imaging through cranial windows. Some feature highlights are listed below.</p>
 <ul dir="auto">
-<li>3.6 X 2.7 mm field of view</li>
+<li>3.5 mm field of view</li>
 <li>~3 µm resolution</li>
-<li>3.5 mm working distance</li>
+<li>1.9 mm working distance</li>
 <li>+/-150um electronic focal adjustment</li>
 <li>Modular optics</li>
 <li>Achromatic optics</li>
-<li>13.9 grams</li>
+<li>3.3 grams</li>
 <li>30 mm tall</li>
 <li>Absolute head orientation sensor</li>
 <li>Requires ~1/2th the excitation power of previous systems</li>
