@@ -6,7 +6,7 @@ This is the repository for the second version of MiniLFOV, called MiniLFOV-Light
 
 Large field-of-view miniature microscope for freely moving mice and bigger animals. 
 <p align="center">
-  <img align="center" width="510" height="607" src="https://github.com/Aharoni-Lab/MiniLFOV-Light/blob/main/img/Fig1-v14_A1.png">
+  <img align="center" width="205" height="303" src="https://github.com/Aharoni-Lab/MiniLFOV-Light/blob/main/img/Fig1-v14_A1.png">
 </p>
 <p dir="auto"><strong>All information, guides, and tutorials can be found on the <a href="https://github.com/Aharoni-Lab/Miniscope-LFOV/wiki">MiniLFOV-Light Wiki Page</a>.</strong></p>
 <p dir="auto"><strong>Make sure to click Watch and Star in the upper right corner of this page to get updates on new features and releases.</strong></p>
