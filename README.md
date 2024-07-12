@@ -15,10 +15,10 @@ Large field-of-view miniature microscope for freely moving mice and bigger anima
 <li>3.5 mm field of view</li>
 <li>~3 µm resolution</li>
 <li>1.9 mm working distance</li>
-<li>+/-150um electronic focal adjustment</li>
+<li>+/-200 µm electronic focal adjustment</li>
 <li>Modular optics</li>
 <li>Achromatic optics</li>
-<li>3.3 grams</li>
+<li>3.5 grams</li>
 <li>30 mm tall</li>
 <li>Absolute head orientation sensor</li>
 <li>Requires ~1/2th the excitation power of previous systems</li>
