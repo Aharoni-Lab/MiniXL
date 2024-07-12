@@ -2,7 +2,7 @@
 
 **[[Miniscope V4 Wiki](https://github.com/Aharoni-Lab/Miniscope-v4/wiki)] [[Miniscope DAQ Software Wiki](https://github.com/Aharoni-Lab/Miniscope-DAQ-QT-Software/wiki)] [[Miniscope DAQ Firmware Wiki](https://github.com/Aharoni-Lab/Miniscope-DAQ-Cypress-firmware/wiki)] [[Miniscope Wire-Free DAQ Wiki](https://github.com/Aharoni-Lab/Miniscope-Wire-Free-DAQ/wiki)] [[MiniLFOV-Light Wiki](https://github.com/Aharoni-Lab/Miniscope-LFOV/wiki)][[2021 Virtual Miniscope Workshop Recording](https://sites.google.com/metacell.us/miniscope-workshop-2021)]**
 
-This is the repository for the second version of MiniLFOV, called MiniLFOV-Light, which is able to image the neuronal acitivity in freely moving mice with a field of view larger than 3mm and single cell resolution. But better name can be given if anyone has better suggestion.
+This is the repository for the second version of MiniLFOV, called MiniLFOV-XL, which is able to image the neuronal acitivity in freely moving mice with a field of view larger than 3mm and single cell resolution. But better name can be given if anyone has better suggestion.
 
 Large field-of-view miniature microscope for freely moving mice and bigger animals. 
 <p align="center">
@@ -11,7 +11,7 @@ Large field-of-view miniature microscope for freely moving mice and bigger anima
 <p dir="auto"><strong>All information, guides, and tutorials can be found on the <a href="https://github.com/Aharoni-Lab/MiniLFOV-Light?tab=readme-ov-file">MiniLFOV-Light Wiki Page</a>.</strong></p>
 <p dir="auto"><strong>Make sure to click Watch and Star in the upper right corner of this page to get updates on new features and releases.</strong></p>
 <p align="center" dir="auto">
-<p dir="auto">The Miniscope_LFOV is designed to extend the capabilities of the UCLA Miniscope for head-fixed imaging in mice, and head-free imaging to larger rodents and non-human primates. This system is capable of multiple imaging configurations, including deep brain imaging using implanted optical probes and cortical imaging through cranial windows. Some feature highlights are listed below.</p>
+<p dir="auto">The Mini_LFOV_XL is designed to extend the capabilities of the UCLA Miniscope for imaging in freely moving mice, and imaging to larger rodents and non-human primates. This system is capable of multiple imaging configurations, including deep brain imaging using implanted optical probes and cortical imaging through cranial windows. Some feature highlights are listed below.</p>
 <ul dir="auto">
 <li>3.5 mm field of view</li>
 <li>~3 µm resolution</li>
