@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name CScope_LED_PCB_01032020-rescue)(type Legacy)(uri ${KIPRJMOD}/CScope_LED_PCB_01032020-rescue.lib)(options "")(descr ""))
-)

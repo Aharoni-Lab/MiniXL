@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name CScope_MT9P031_CMOS_01032020-rescue)(type Legacy)(uri ${KIPRJMOD}/CScope_MT9P031_CMOS_01032020-rescue.lib)(options "")(descr ""))
-  (lib (name CScope_Ser_Pow_01032020-rescue)(type Legacy)(uri ${KIPRJMOD}/CScope_Ser_Pow_01032020-rescue.lib)(options "")(descr ""))
-)
